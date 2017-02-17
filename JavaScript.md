@@ -28,6 +28,14 @@ Para dominar JavaScript, el lenguaje más versátil y demandado de la actualidad
     * **[Sitio Oficial](http://gruntjs.com/ "gruntjs.com")**
     * **[Guía de ayuda 1](https://carlosazaustre.es/blog/automatizar-tareas-en-javascript-con-grunt-js/ "carlosazaustre.es")**
 
+### VueJS
+* **Categoria:** Framework progresivo para JavaScript.
+* **Descripción: ** VueJs es un framework JavaScript para contruir interfaces web interactivas, que se especializa solamente en la capa de vista, es muy sencillo de aprender y trabaja (al igual que react) sobre el virtual dom. Es por naturaleza reactivo (si los datos cambian, la vista se actualiza automaticamente) y trabaja con un patron View/Model. Su punto fuerte es la sencillez y trabaja principalmente con componentes, permitiendo al desarrollador poder crear facilmente componentes y reutilizarlos donde desee sin complicaciones. Tambien dispone de varios componentes y recursos utiles creados por la comunidad que podemos utilizar.
+* **Competencia** ReactJS, AngularJS, Riot.js, Mithril
+* **Enlaces**
+  * **[Sitio Oficial](https://vuejs.org/)**
+  * **[Curso gratuito en español](http://wmedia.teachable.com/)**
+
 ## Template
 
 ### Componente A
